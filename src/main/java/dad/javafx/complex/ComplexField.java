@@ -21,7 +21,7 @@ public class ComplexField extends HBox implements Initializable {
 	private DoubleProperty imaginary = new SimpleDoubleProperty();
 
 	// view
-
+	
 	@FXML
 	private TextField realText;
 
